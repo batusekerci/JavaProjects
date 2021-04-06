@@ -1,1 +1,0 @@
-In order to calculate billing, two txt files are read and used in the program. Output gives information about buyers and their billing.
